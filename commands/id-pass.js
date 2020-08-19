@@ -16,5 +16,5 @@ module.exports.config = {
         name: "sroom",
         description: "id-pass-channel message",
         usage: "!sroom",
-        aliases: ["!id-pass"]
+        aliases: ['!id-pass']
 }

@@ -13,7 +13,7 @@ module.exports.run = async (bot, message, args) => {
 module.exports.config = {
         name: "staffteam",
         description: "shows information about the staff team",
-        usage: "!staffteam",
+        usage: "!st",
         accessableby: "Members",
-        aliases: ["st"]
+        aliases: ['st']
 }

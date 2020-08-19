@@ -11,8 +11,8 @@ module.exports.run = async (bot, message, args) => {
         message.channel.send(embed);
     }
 module.exports.config = {
-        name: "membercount",
-        description: "sever membercount",
-        usage: "!membercount",
-        aliases: ["mc"]
+        name: "mc",
+        description: "server membercount",
+        usage: "!mc",
+        aliases: ['membercount']
 }

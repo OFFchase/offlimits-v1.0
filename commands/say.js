@@ -15,5 +15,5 @@ module.exports.config = {
     name: "say",
     description: "message thru the bot",
     usage: "!say",
-    aliases: ["s"]
+    aliases: ['s']
 }

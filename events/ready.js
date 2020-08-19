@@ -1,6 +1,6 @@
 const Discord = require("discord.js")
 
 module.exports = bot => { 
-    console.log(`${bot.user.username} is online`)
+    console.log(`Yo bitch I'm online`)
     bot.user.setActivity("OFFlimits | !help", {type: ""});
 }
