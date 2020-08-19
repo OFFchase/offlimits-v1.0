@@ -1,0 +1,20 @@
+{
+    "name": "offlimits",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "node .": "node runindex.js"
+    },
+    "author": "Niklaus",
+    "license": "ISC",
+    "dependencies": {
+      "ascii-table": "0.0.9",
+      "discord.js": "^12.2.0",
+      "dotenv": "^8.2.0",
+      "ms": "^2.1.2",
+      "quick.db": "^7.1.1"
+    }
+  }
+  
